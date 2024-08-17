@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the symptoms of flu?",
+    "answer": "The symptoms of flu include fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, and fatigue."
+  },
+  {
+    "question": "How can I prevent high blood pressure?",
+    "answer": "To prevent high blood pressure, you should maintain a healthy weight, eat a balanced diet low in salt, exercise regularly, avoid excessive alcohol, and manage stress."
+  },
+  {
+    "question": "What should I do if I have a fever?",
+    "answer": "If you have a fever, you should rest, stay hydrated, and take over-the-counter medications like acetaminophen or ibuprofen to reduce the fever. If the fever persists for more than a few days or is very high, consult a healthcare professional."
+  },
+  {
+    "question": "What are the benefits of regular exercise?",
+    "answer": "Regular exercise helps improve cardiovascular health, manage weight, strengthen muscles and bones, boost mood, improve sleep, and reduce the risk of chronic diseases like diabetes and heart disease."
+  },
+  {
+    "question": "What is the best way to manage diabetes?",
+    "answer": "Managing diabetes involves monitoring blood sugar levels, following a balanced diet, engaging in regular physical activity, taking prescribed medications, and working with a healthcare provider to create a personalized management plan."
+  },
+  {
+    "question": "How can I reduce stress?",
+    "answer": "To reduce stress, consider practicing relaxation techniques such as deep breathing, meditation, or yoga. Regular physical activity, maintaining a healthy diet, getting enough sleep, and engaging in hobbies can also help manage stress."
+  },
+  {
+    "question": "What are the common causes of headaches?",
+    "answer": "Common causes of headaches include tension, migraine, sinus infections, dehydration, eye strain, and poor posture. Identifying and addressing the underlying cause can help alleviate headache symptoms."
+  },
+  {
+    "question": "When should I see a doctor for a sore throat?",
+    "answer": "You should see a doctor if you have a sore throat that lasts more than a week, is severe, or is accompanied by symptoms such as high fever, rash, difficulty swallowing, or swollen lymph nodes."
+  },
+  {
+    "question": "How can I improve my sleep quality?",
+    "answer": "To improve sleep quality, maintain a consistent sleep schedule, create a comfortable sleep environment, avoid caffeine and heavy meals before bedtime, and engage in relaxing activities before going to bed."
+  },
+  {
+    "question": "What is the importance of vaccinations?",
+    "answer": "Vaccinations are important because they protect individuals and communities from serious infectious diseases. They help prevent the spread of illnesses and reduce the risk of outbreaks by providing immunity."
+  }
+]
